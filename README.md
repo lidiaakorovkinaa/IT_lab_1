@@ -35,11 +35,6 @@ myproject/
     └── wsgi.py
 ```
 
-## 
-- Python 3.8+
-- Django 4.2
-- SQLite
-
 ## Автор
 Коровкина Лидия 2-МГЗ-2
 
